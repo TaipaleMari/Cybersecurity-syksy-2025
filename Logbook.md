@@ -10,3 +10,4 @@
 | 2.11. | 1 h | Introduction to Cybersecurity -Module 5 + Final Quiz | Aineiston läpikäynti, Quiz 5 ja Final Quiz | 
 | 6.11. | 1h 30 min | Intro to PortSwigger | Luento 2 tallenteen katsominen | 
 | 10.11. | 1 h 10 min | PortSwigger, SQL-injection | BurpSuite asennus, Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data, aiheen tutkiminen + LABin reflektointi |
+| 10.11. | 20 min | PortSwigger, SQL-injection | LAB:SQL injection vulnerability allowing login bypass + reflektointi | 
