@@ -14,3 +14,4 @@
 | 11.11. | 55 min | PortSwigger, Authentication | LAB:Username enumeration via different responses + reflektointi |
 | 11.11. | 40 min | PortSwigger, Authentication | LAB:Password reset broken logic + reflektointi |
 | 11.11. | 30 min | PortSwigger, Access | LAB: Unprotected admin functionality + reflektointi |
+| 11.11. | 30 min | PortSwigger Access | LAB: User role can be modified in user profile + reflektointi |
