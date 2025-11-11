@@ -12,3 +12,4 @@
 | 10.11. | 1 h 10 min | PortSwigger, SQL-injection | BurpSuite asennus, Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data, aiheen tutkiminen + LABin reflektointi |
 | 10.11. | 20 min | PortSwigger, SQL-injection | LAB:SQL injection vulnerability allowing login bypass + reflektointi | 
 | 11.11. | 55 min | PortSwigger, Authentication | LAB:Username enumeration via different responses + reflektointi |
+| 11.11. | 40 min | PortSwigger, Authentication | LAB:Password reset broken logic + reflektointi |
