@@ -16,4 +16,4 @@
 | 11.11. | 30 min | PortSwigger, Access | LAB: Unprotected admin functionality + reflektointi |
 | 11.11. | 35 min | PortSwigger Access | LAB: User role can be modified in user profile + reflektointi |
 | 18.11. | 2 h 10 min | Project - Phase 1 | Luentojen tallenteet (11.11.) |
-| 18.11. | 4 h 10 min | Project - Phase 1 | ympäristön luominen-> Oracle VM päivitys, uuden VM + Kali asennus, Docker asennus | | 19.11. | 5 h 35 min | Project - Phase 1 | DockerLAB luominen, ZAP-asennus VM:n, Testaukset (manuaalinen ei onnistunut, joten raportissa vain automaattiset testit), Raportit: TestReport ja ZAP-report| 
+| 18.11. | 4 h 10 min | Project - Phase 1 | ympäristön luominen-> Oracle VM päivitys, uuden VM + Kali asennus, Docker asennus | | 19.11. | 5 h 35 min | Project - Phase 1 | DockerLAB luominen, ZAP-asennus VM:n, Testaukset, Raportit | 
