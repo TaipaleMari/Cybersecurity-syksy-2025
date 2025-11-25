@@ -18,3 +18,4 @@
 | 18.11. | 2 h 10 min | Project - Phase 1 | Luentojen tallenteet (11.11.) |
 | 18.11. | 4 h 10 min | Project - Phase 1 | ympäristön luominen-> Oracle VM päivitys, uuden VM + Kali asennus, Docker asennus |
 | 19.11. | 5 h 35 min | Project - Phase 1 | DockerLAB luominen, ZAP-asennus VM:n, Testaukset, Raportit | 
+| 25.11. | 1h 49 min | Project - Phase 1 | Toinen yritys phase1-part1: ympäristön luonti Windows+Docker | 
