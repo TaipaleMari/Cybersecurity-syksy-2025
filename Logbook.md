@@ -22,4 +22,4 @@
 | 27.11. | 1 h 37 min | Project - Phase 1 | Toinen yritys- ZAP testaus tehty Windows+Docker, raportit | 
 | 27.11. | 2 h 27 min | Project - Phase 1 | Part2-tallenne, ZAP-testit 2-osalle, ZAP-raportin lisäys GitHubiin | 
 
-** Käytetty aika yhteensä: (27.11.) 27 h 8 min **
+Käytetty aika yhteensä: (27.11.) *28 h 8 min*
