@@ -67,7 +67,6 @@
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
 
-> 📁 **[ZAP Report – Phase 1 (Windows + Docker)](BookingSystem-Phase1/Windows+Docker/ZAP-report-phase1-part1-WINDOWS+DOCKER.md)
-**
+> 📁 [ZAP Report – Phase 1 (Windows + Docker)](BookingSystem-Phase1/Windows+Docker/ZAP-report-phase1-part1-WINDOWS+DOCKER.md)
 
 ---
