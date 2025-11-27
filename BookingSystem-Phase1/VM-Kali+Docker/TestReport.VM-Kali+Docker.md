@@ -65,6 +65,6 @@ All parts of testing were not successful, for example manual registeration testi
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
-> 📁 [ZAP-raportti (osa 1)](ZAP_report-phase1-part1.md)
+> 📁 [ZAP-raportti (osa 1)](ZAP_report-phase1-part1.VM-Kali+Docker.md)
 
 ---
