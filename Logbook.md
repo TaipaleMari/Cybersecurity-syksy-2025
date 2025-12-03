@@ -23,4 +23,5 @@
 | 27.11. | 2 h 27 min | Project - Phase 1 | Part2-tallenne, ZAP-testit 2-osalle, ZAP-raportin lisäys GitHubiin | 
 | 28.11. | 1 h 36 min | Project - Phase 1 | Part2, raportin teko ja lähetys |
 | 1.12. | 1 h 10 min | Project - Phase 2 | tallenne:password cracking, Phase2-ZAP- sekä manuaalinen testi, ZAP-raportti Githubiin | 
-## Käytetty aika yhteensä: (1.12.) *30 h 54 min*
+| 3.12. | 3 h 50 min | Project - Phase 2 | salasanojen selvittämistä |
+## Käytetty aika yhteensä: (3.12.) *34 h 44 min*
