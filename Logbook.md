@@ -24,5 +24,5 @@
 | 28.11. | 1 h 36 min | Project - Phase 1 | Part2, raportin teko ja lähetys |
 | 1.12. | 1 h 10 min | Project - Phase 2 | tallenne:password cracking, Phase2-ZAP- sekä manuaalinen testi, ZAP-raportti Githubiin | 
 | 3.12. | 3 h 50 min | Project - Phase 2 | salasanojen selvittämistä |
-| 8.12. | 3 h | Project - Phase 2 | salasanojen selvittämistä- raportti | 
-## Käytetty aika yhteensä: (3.12.) *37 h 44 min*
+| 8.12. | 3 h 15 min | Project - Phase 2 | salasanojen selvittämistä- raportti | 
+## Käytetty aika yhteensä: (3.12.) *38 h 1 min*
