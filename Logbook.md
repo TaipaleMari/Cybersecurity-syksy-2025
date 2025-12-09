@@ -25,4 +25,6 @@
 | 1.12. | 1 h 10 min | Project - Phase 2 | tallenne:password cracking, Phase2-ZAP- sekä manuaalinen testi, ZAP-raportti Githubiin | 
 | 3.12. | 3 h 50 min | Project - Phase 2 | salasanojen selvittämistä |
 | 8.12. | 3 h 15 min | Project - Phase 2 | salasanojen selvittämistä- raportti | 
-## Käytetty aika yhteensä: (3.12.) *38 h 1 min*
+| 9.12. | 1h 45 min h | PortSwigger | 10 LABia aiheista API-TESTING, CSRF, PATH TRAVERSAL ja ACCESS CONTROL VULNERABILITIES |
+
+## Käytetty aika yhteensä: (3.12.) *39 h 46 min*
