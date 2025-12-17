@@ -26,5 +26,6 @@
 | 3.12. | 3 h 50 min | Project - Phase 2 | salasanojen selvittämistä |
 | 8.12. | 3 h 15 min | Project - Phase 2 | salasanojen selvittämistä- raportti | 
 | 9.12. | 1h 45 min h | PortSwigger | 10 LABia aiheista API-TESTING, CSRF, PATH TRAVERSAL ja ACCESS CONTROL VULNERABILITIES |
+| 17.12. | 20 min | PortSwigger | 2 LABia aiheesta Cross-site scripting |
 
-## Käytetty aika yhteensä: (3.12.) *39 h 46 min*
+## Käytetty aika yhteensä: (17.12.) *40 h 5 min*
